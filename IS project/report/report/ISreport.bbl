@@ -1,0 +1,49 @@
+\begin{thebibliography}{10}
+
+\bibitem{tensorflowSite}
+\url{https://www.tensorflow.org/install/install_linux#common_installation_problems/}.
+
+\bibitem{cuddnGuide}
+\url{http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/
+  CUDA_Quick_Start_Guide.pdf/}.
+
+\bibitem{cuddnLinux}
+\url{http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#install-linux/}.
+
+\bibitem{tensorflowBinary}
+\url{https://www.tensorflow.org/install/install_linux#the_url_of_the_tensorflow_python_package/}.
+
+\bibitem{CIFAR}
+\url{https://www.cs.toronto.edu/~kriz/cifar.html/}.
+
+\bibitem{HoreaDataset}
+\url{https://github.com/Horea94/Fruit-Images-Dataset/}.
+
+\bibitem{imagenet}
+Imagenet.
+\newblock \url{http://www.image-net.org/}.
+
+\bibitem{tensorflowHub}
+Tensorflow hub.
+\newblock \url{https://www.tensorflow.org/hub/}.
+
+\bibitem{tensorflowAbstract}
+Mart\'{\i}n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+  Craig Citro, Greg~S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+  Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard,
+  Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh
+  Levenberg, Dandelion Man\'{e}, Rajat Monga, Sherry Moore, Derek Murray, Chris
+  Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal
+  Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi\'{e}gas,
+  Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and
+  Xiaoqiang Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem{resnet}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em arXiv preprint arXiv:1512.03385}, 2015.
+
+\end{thebibliography}

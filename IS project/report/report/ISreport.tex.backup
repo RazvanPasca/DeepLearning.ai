@@ -1,0 +1,73 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{url}
+
+% Title Page
+\title{Neural network}
+\author{name name}
+
+
+\begin{document}
+\maketitle
+
+
+
+\tableofcontents
+\section{Overview}
+For using Latex see \url{http://cs-gw.utcluj.ro/~srazvan/articleSchema.tgz}
+ 
+ 
+ 
+Using latex: \url{https://en.wikibooks.org/wiki/LaTeX}
+ 
+ Example of lists:
+ \begin{itemize}
+  \item first
+  \item second
+ \end{itemize}
+
+ \begin{enumerate}
+  \item hello
+  \item good morning
+  \item search state space
+  \item tranzition model
+ \end{enumerate}
+
+ \subsection{Instalare si rulare}
+ 
+ \subsubsection{How to run}
+ askl jdfhlaskfhklasdfhlaekugfi qeuorgfejkghfr jkefg
+ $$ a+ \beta \frac{34}{a_i} \sum_{a \in B} $$
+ 
+ example of underline: $aaa\_bbbb$ vs $aaa_{bbb}$
+ 
+ \begin{figure}
+ \centering
+  \includegraphics[width=0.5\textwidth]{cover2.jpg}
+  \caption{Cover of AIMA book}
+ \end{figure}
+
+ \subsection{Theorectical aspects}
+  \subsubsection{Data representation}
+  \subsubsection{Algorithm}
+ 
+ 
+ \subsection{Existing Example}
+ \subsection{Your own small Example}
+    Deadline: 9th week
+    
+    Starting from the existing example, write your own small example, in order to test your knowledge about the usage of the system.
+    
+    Explain the example and the output.
+ \subsection{Other issues}
+ \section{Proposed problem}
+  \subsection{Specification} 
+  Deadline: 10th week
+  \subsection{Implementation} 
+  Deadline:14th week 
+
+
+
+
+\end{document}          
